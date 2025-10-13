@@ -1823,6 +1823,7 @@ right: 200px;
 
 .journey_txt p      {border: 2px solid var(--dark-blue);
                     padding: 2%;
+                    font-size: 15px;
                     border-radius: 10px;
                     font-family: var(--para);
                     box-shadow: 12px 12px 20px var(--dark-blue);}
